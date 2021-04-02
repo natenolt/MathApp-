@@ -1,0 +1,10 @@
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\obj\Debug\MathApp.csprojAssemblyReference.cache
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\obj\Debug\MathApp.Form1.resources
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\obj\Debug\MathApp.Properties.Resources.resources
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\obj\Debug\MathApp.csproj.GenerateResource.cache
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\Users\new user\Desktop\c#projects\MathApp\MathApp\obj\Debug\MathApp.pdb
